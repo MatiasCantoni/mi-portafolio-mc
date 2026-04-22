@@ -40,9 +40,17 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           
           <TarjetaProyecto 
-            titulo="Che Oficios - En Proceso"
-            descripcion="Start-UP de una plataforma web desarrollada para conectar profesionales de oficios con clientes que requieren servicios específicos. - Lanzamiento proximo en 2 semanas." 
+            titulo="CasaMingo"
+            descripcion="Landing para un equipo de Diseñadoras gráficas. Lanzamiento oficial en 1 semana." 
+            tecnologias="Next.js / React / Tailwind" 
+            linkDemo="https://muestra-mingo.vercel.app/"
+          />
+
+          <TarjetaProyecto 
+            titulo="Che Oficios"
+            descripcion="Start-UP de una plataforma web desarrollada para conectar profesionales de oficios con clientes que requieren servicios específicos." 
             tecnologias="Laravel / PHP / Tailwind / MySQL" 
+            linkDemo="https://cheoficios.com.ar/"
           />
 
           <TarjetaProyecto 
