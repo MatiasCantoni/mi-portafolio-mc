@@ -51,7 +51,7 @@ export default function Home() {
             titulo="Pet Tracker"
             descripcion="Aplicación para el control y seguimiento de mascotas mediante collar inteligente."
             tecnologias="JAVA / Spring Boot / MySQL / Tailwind / Mockito / Docker"
-            video="/proyectos/pettracker-mod.mp4" 
+            video="/proyectos/pettracker-mod.mp4"
             linkCodigo="https://github.com/DavidLuques/web-base"
           />
 
@@ -113,14 +113,8 @@ export default function Home() {
 
         <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200 text-slate-600 leading-relaxed space-y-6 text-lg">
           <p>
-            Soy un desarrollador web al que le apasiona resolver problemas reales a través del código. Me enfoco en crear plataformas que sean funcionales, rápidas y que aporten valor real a los usuarios.
-          </p>
-          <p>
-            Tengo experiencia trabajando en el backend estructurando bases de datos y lógica compleja, pero también disfruto mucho armando interfaces visuales limpias y modernas en el frontend. La adaptabilidad y el trabajo en equipo son habilidades que he pulido en mis experiencias laborales previas y que aplico a mi forma de programar.
-          </p>
-          <p>
-            Cuando no estoy frente a la pantalla depurando código o investigando nuevas tecnologías, es muy probable que me encuentres moliendo granos para prepararme un buen café, leyendo algún libro de desarrollo personal para seguir mejorando mis hábitos, o buscando algo de inspiración en el diseño de interiores.
-          </p>
+            Soy Desarrollador Web Full-Stack y estudiante de la Tecnicatura en Desarrollo Web en la UNLaM. Me especializo en diseñar y construir plataformas digitales y soluciones web completas, abarcando desde la arquitectura de bases de datos y lógica de backend robusta hasta interfaces intuitivas y modernas.            <br />
+            Mi stack abarca el desarrollo backend tanto en PHP (Laravel) como en Java, ecosistemas frontend con JavaScript (React, Next.js), y diseño de datos relacionales en MySQL. Además, complemento el ciclo técnico con herramientas como Docker, Laravel Forge y Cloudflare, aplicando pruebas unitarias y buenas prácticas de arquitectura para entregar software escalable y listo para producción.          </p>
         </div>
       </section>
       <Contacto />
