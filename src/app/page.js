@@ -113,7 +113,8 @@ export default function Home() {
 
         <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200 text-slate-600 leading-relaxed space-y-6 text-lg">
           <p>
-            Soy Desarrollador Web Full-Stack y estudiante de la Tecnicatura en Desarrollo Web en la UNLaM. Me especializo en diseñar y construir plataformas digitales y soluciones web completas, abarcando desde la arquitectura de bases de datos y lógica de backend robusta hasta interfaces intuitivas y modernas.            <br />
+            Soy Desarrollador Web Full-Stack y estudiante de la Tecnicatura en Desarrollo Web en la UNLaM. Me especializo en diseñar y construir plataformas digitales y soluciones web completas, abarcando desde la arquitectura de bases de datos y lógica de backend robusta hasta interfaces intuitivas y modernas.            
+            <br />
             Mi stack abarca el desarrollo backend tanto en PHP (Laravel) como en Java, ecosistemas frontend con JavaScript (React, Next.js), y diseño de datos relacionales en MySQL. Además, complemento el ciclo técnico con herramientas como Docker, Laravel Forge y Cloudflare, aplicando pruebas unitarias y buenas prácticas de arquitectura para entregar software escalable y listo para producción.          </p>
         </div>
       </section>
