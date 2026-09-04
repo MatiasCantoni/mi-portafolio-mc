@@ -34,7 +34,7 @@ export default function TarjetaProyecto({
               src={video} 
               autoPlay 
               loop 
-              muted 
+              muted
               playsInline
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 opacity-90 group-hover:opacity-100"
             />
@@ -104,8 +104,8 @@ export default function TarjetaProyecto({
               // ¡Aquí está la magia del video! Agregamos "controls" para que el usuario pueda pausar, subir volumen, etc.
               <video 
                 src={video} 
-                controls 
                 autoPlay 
+                muted
                 className="w-full max-h-[85vh] rounded-xl shadow-2xl object-contain bg-black"
               />
             ) : (
